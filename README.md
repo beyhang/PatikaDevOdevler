@@ -1,2 +1,2 @@
 # Patikaodevleri
- Patika.dev Boostrap ödevi1
+ Patika.dev Boostrap ödevleri
